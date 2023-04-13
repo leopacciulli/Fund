@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "title": "Wind Fund",
+    "sigla": "WFND",
+    "type": "positive",
+    "value": "1010.11",
+    "percentage": "3.51",
+    "percentageValue": "1.21",
+    "imageType": "wind",
+    "year": "2022",
+    "info": {
+      "aum": "430.88",
+      "issueDate": "18/04/2022",
+      "vintageRange": "2019 - 2022",
+      "ter": "0.15",
+      "priceAtClose": "17.68",
+      "priceAtOpen": "17.74"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Solar Fund",
+    "sigla": "SFND",
+    "type": "negative",
+    "value": "968.61",
+    "percentage": "0.14",
+    "percentageValue": "0.88",
+    "imageType": "solar",
+    "year": "2022",
+    "info": {
+      "aum": "11.56",
+      "issueDate": "18/04/2022",
+      "vintageRange": "2015 - 2017",
+      "ter": "1.15",
+      "priceAtClose": "0.55",
+      "priceAtOpen": "0.47"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Natural",
+    "sigla": "NTAL",
+    "type": "positive",
+    "value": "1122.0",
+    "percentage": "5.89",
+    "percentageValue": "6.32",
+    "imageType": "natural",
+    "year": "2022",
+    "info": {
+      "aum": "55.6",
+      "issueDate": "18/04/2022",
+      "vintageRange": "2020 - 2024",
+      "ter": "1.15",
+      "priceAtClose": "2.56",
+      "priceAtOpen": "5.66"
+    }
+  }
+]
